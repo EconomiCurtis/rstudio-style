@@ -1,0 +1,36 @@
+a span.clicks { 
+  display: none; 
+}
+
+.nav-pills li[title*="random"] { 
+  display: none; 
+}
+
+.category-logo {
+  max-height: 60px;
+} 
+
+.d-header #site-logo {
+  height: 40px;
+  width: 260px;
+}
+
+#site-logo.logo-small  {
+  height: 39px;
+  width: 39px;
+  margin-left: 2px;
+}
+
+.category-list tbody .category {
+  border-left-width: 50px;
+}
+
+.category-heading .category-logo {
+  margin-top: 0px;
+  margin-bottom: 15px;
+}
+
+.category-list tbody .category h3 .fa {
+  margin-left: 68px;
+  margin-right: -63px;
+}
