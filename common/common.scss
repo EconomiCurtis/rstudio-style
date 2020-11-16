@@ -38,3 +38,18 @@ a span.clicks {
 .create-account .user-fields .user-field-consultant_var_01{
     display: none;
 }
+
+.select-kit.is-expanded .select-kit-body{
+    background-color:white;
+}
+
+.select-kit.single-select.combobox.combo-box{
+    box-sizing: border-box;
+    border: 1px Solid #00000029;
+    border-radius: 3px;
+    display: block;
+}
+
+.custom-wizard {
+    font-family: sans-serif;
+}
