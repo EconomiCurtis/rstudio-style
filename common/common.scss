@@ -118,3 +118,19 @@ pre code {
 .create-account .user-fields .user-field-consultant_var_01{
     display: none;
 } 
+
+
+/* category box look and feel */
+.badge-category-bg {
+  border-radius:2px;
+}
+
+/* category name in dropdown */
+.topic-list .category-name{
+  color:#808080;
+}
+
+/* tag box look and feel */
+.discourse-tag.box{
+  background-color:transparent;
+}
